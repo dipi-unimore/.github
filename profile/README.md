@@ -1,7 +1,7 @@
 # 🧠 Distributed and Pervasive Intelligence (DIPI) Lab
 
 The Distributed and Pervasive Intelligence (DIPI) Lab is a research group at the [University of Modena and Reggio Emilia](https://www.unimore.it), 
-Italy and in particular associated to the Department of Sciences and Methods for Engineering (DISMI).
+Italy and in particular associated to the [Department of Sciences and Methods for Engineering (DISMI)](https://www.dismi.unimore.it/).
 
 ## 🔬 Research Areas
 
