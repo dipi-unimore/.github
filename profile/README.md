@@ -35,5 +35,6 @@ Here you can find our public repositories with open source projects developed by
 
 ## 📍 Visit Us & Contacts
 
-Check out our dedicated repository for logistics information on how to reach the laboratory: [Link]([url](https://github.com/dipi-unimore/dipi-public-info))
+Check out our dedicated repository for logistics information on how to reach the laboratory: [Link]([url](https://github.com/dipi-unimore/dipi-public-info)
+
 For more information, visit our [website](https://dipi.unimore.it/).
